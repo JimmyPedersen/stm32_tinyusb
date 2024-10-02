@@ -1,3 +1,0 @@
-[submodule "Libs/tinyusb"]
-	path = Libs/tinyusb
-	url = https://github.com/JimmyPedersen/tinyusb.git
